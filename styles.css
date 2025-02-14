@@ -1,0 +1,23 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.bg-gray-100 {
+  background: #f8f9fa;
+}
+
+.shadow-lg {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.rounded-xl {
+  border-radius: 12px;
+}
+
+.text-gray-600 {
+  color: #6b7280;
+}
+
+.text-gray-900 {
+  color: #111827;
+}
